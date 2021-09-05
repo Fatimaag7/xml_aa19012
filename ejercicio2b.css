@@ -1,0 +1,12 @@
+pais[nombre]::before{content:attr(nombre);color:white;font-size:2cm;font-weight:bold; display:block; padding-top:30px; padding-bottom:20px; margin:20px; text-align:center;}
+moneda{color:white;font-size:1cm; display:block; text-align: center;}
+pais {background-color:black}
+departamento[nombre]::before{content:attr(nombre);color:rgb(0, 0, 0);font-weight:bold; display:block; padding-top:30px; padding-bottom:20px; margin:20px; text-align:center;}
+departamento{background-color:lightgreen;display:block;font-size:1cm;}
+cabecera{display:block;text-align:center;font-size:0.5cm;}
+habitantes{color:darkgreen;display:block;text-align:center;font-size:0.5cm;}
+altura{color:rgb(0, 0, 0);display:block;text-align:center;font-size:0.5cm;}
+codigopostal{color:darkgreen;display:block;text-align:center;font-size:0.5cm;}
+areaTerritorial{display:block;text-align:center;font-size:0.5cm;}
+codigopostal{display:block;text-align:center;font-size:0.5cm;}
+territorio{color:darkgreen;display:block;text-align:center;font-size:0.5cm;}

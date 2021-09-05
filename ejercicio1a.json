@@ -1,0 +1,19 @@
+{
+	"fichero":{"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"04/09/2021",
+				"nombre":" Fatima Mercedes",
+				"apellido":" Aguilar Aguirre",
+				"telefono":"76051980",
+				"email":" aa19012@ues.edu.sv"
+			}
+		]}
+}

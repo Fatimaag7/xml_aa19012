@@ -1,0 +1,33 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Fatima Mercedes",
+				"apellido": "Aguilar Aguirre",
+				"telefono": "76051980",
+				"email": "aa19012@ues.edu.sv",
+				"_id": "2",
+				"_fechaingreso": "04/09/2021"
+			},
+			{
+				"nombre": "Fatima Mercedes",
+				"apellido": "Aguilar Aguirre",
+				"telefono": "76051980",
+				"email": "aa19012@ues.edu.sv",
+				"direccion": "Zacamil, Mejicanos. San Salvador",
+				"dui": "02045890-2",
+				"isss": "100100100",
+				"afp": "000100010001",
+				"_id": "3",
+				"_fechaingreso": "03/09/2021"
+			}
+		]
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"moneda":"Dolar ($)",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"La Libertad",
+				"cabecera":"Santa Tecla",
+				"habitantes":"753,800",
+				"altura":"493 MSNM",
+				"codigopostal":"01511",
+				"areaTerritorial":"Central",
+				"territorio":"1758 km2"
+			}
+		]
+	}
+}

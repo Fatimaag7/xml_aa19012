@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ejercicio2b.css"?>
+<pais nombre="El Salvador">
+<moneda>Dolar ($)</moneda>
+
+  <departamento id="1" nombre="San Salvador">
+  <cabecera>San Salvador</cabecera>  
+  <habitantes>1,700,000</habitantes>
+  <altura>545 MSNM</altura>
+  </departamento>
+  
+  <departamento id="2" nombre="La Libertad">
+  <cabecera>Santa Tecla</cabecera>  
+  <habitantes>753,800</habitantes>
+  <altura>493 MSNM</altura>
+  <codigopostal>01511</codigopostal>
+   <areaTerritorial>Central</areaTerritorial>
+  <territorio>1758 km2</territorio>
+  </departamento>
+  
+    <departamento id="3" nombre="Santa Ana">
+  <cabecera>Santa Ana</cabecera>  
+  <habitantes>264,091</habitantes>
+  <altura>	665MSNM</altura>
+  <codigopostal>01511</codigopostal>
+   <areaTerritorial>Central</areaTerritorial>
+  <territorio>	408.01 km2</territorio>
+  </departamento>
+</pais>

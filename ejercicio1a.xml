@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ejercicio1a.css" ?>
+<!-- ejercicio1a.xml  -->
+<fichero>
+  <ficha id="1" fechaingreso="1/11/2012">
+    <nombre>Antonio</nombre>
+    <apellido>Barbero</apellido>
+    <direccion>Calle de Los Andes, 45</direccion>
+  </ficha>
+  <ficha id="2" fechaingreso="04/09/2021">
+    <nombre> Fatima Mercedes</nombre>
+    <apellido> Aguilar Aguirre</apellido>
+    <telefono>76051980</telefono>
+    <email> aa19012@ues.edu.sv</email>
+  </ficha>
+</fichero>
